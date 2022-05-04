@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChkKaruna
 - 👀 I’m interested in exploring amazing world of data
-- 🌱 I’m currently learning data science, python
+- 🌱 I’m currently pursuing Data Science - Python
 - 💞️ I’m looking to collaborate on wonderful codes
 - 📫 How to reach me checkkaruna@gmail.com
 
